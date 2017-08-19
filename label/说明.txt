@@ -1,0 +1,6 @@
+std2_5hsirs_time.txt 文件保存的是病人首次满足金标准2的时间，也就是金标准2中定义的“0”小时
+                第一列是病人的subject_id,第二列是病人的“0”小时
+std_5hsirs-time.txt是满足两个金标准的病人首次连续5hsirs的时间。
+gold_std1_patient.txt是满足金标准1的病人
+gold_std2_patient.txt是满足金标准2的病人
+gold_std_patient.txt是满足两个金标准的病人
